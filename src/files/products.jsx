@@ -801,7 +801,7 @@ export const PRODUCTS = [
         sale_type: 'Flash Sale'
     },
     {
-        id: 71,
+        id: 90,
         name: 'Elepaq',
         description: '4.5KVA Long Coil Manual Start Generator- SV5000',
         price: '163200',
@@ -811,7 +811,7 @@ export const PRODUCTS = [
         sale_type: 'Top Deal'
     },
     {
-        id: 72,
+        id: 91,
         name: '400W',
         description: '2CH Mini HiFi Digital Audio Stereo Power Amplifier Bass Bluetooth',
         price: '11590',
