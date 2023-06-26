@@ -829,7 +829,7 @@ export const PRODUCTS = [
     
     {
 
-        id: 13,
+        id: 71,
         name: 'boAt',
         model: 'Rockerz 225 Pro+',
         description: 'Bluetooth Neckband with Upto 40 Hours Playback, ASAP™ Charge, IPX7, Dual Pairing, BT v5.0 and Mic',
@@ -843,7 +843,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 14,
+        id: 72,
         name: 'boAt',
         model: 'Type C A325',
         description: 'angle-free, Sturdy Type C Cable with 3A Rapid Charging & 480mbps Data Transmission',
@@ -856,7 +856,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 15,
+        id: 73,
         name: 'SanDisk',
         model: 'Ultra microSD UHS_I',
         description: 'Card 64GB, 120MB/s R',
@@ -870,7 +870,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 16,
+        id: 74,
         name: 'HP',
         model: 'X1000',
         description: 'Wired USB Mouse with 3 Handy Buttons, Fast-Moving Scroll Wheel and Optical Sensor works on most Surfaces',
@@ -883,7 +883,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 17,
+        id: 75,
         name: 'SanDisk',
         model: 'Cruzer Blade',
         memory: '32',
@@ -896,7 +896,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 18,
+        id: 76,
         name: 'boAt',
         model: 'Airdopes 121v2',
         description: 'True Wireless Earbuds with Upto 14 Hours Playback, 8MM Drivers, Battery Indicators, Lightweight Earbuds & Multifunction Controls',
@@ -909,7 +909,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 19,
+        id: 77,
         name: 'Longitech',
         model: 'B170 Wireless Mouse',
         description: '2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop',
@@ -922,7 +922,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 20,
+        id: 78,
         name: 'Dell',
         model: 'KB216',
         description: 'Wired Multimedia USB Keyboard with Super Quite Plunger Keys with Spill-Resistant',
@@ -935,7 +935,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 21,
+        id: 79,
         name: 'American Tourister',
         description: 'Jamaica 80CM Wine RED Soft Suitcase',
         price: '47899',
@@ -946,7 +946,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 22,
+        id: 80,
         name: 'Crocs',
         description: 'Unisex Adult Bayaband',
         price: '27299',
@@ -957,7 +957,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 23,
+        id: 81,
         name: 'Nivea',
         description: 'Lotion for Dry Skin, Shea Smooth, with Shea Butter, For Men & Women, 400 ml',
         price: '6499',
@@ -969,7 +969,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 24,
+        id: 82,
         name: 'Adidas',
         description: 'Sparx Mens Sd0323g Sneakers',
         price: '32599',
@@ -981,7 +981,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 25,
+        id: 83,
         name: 'Fossil Analog',
         description: 'Rose Gold Dial Women\'s Watch-BQ181',
         price: '325499',
@@ -993,7 +993,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 26,
+        id: 84,
         name: 'Fastrack',
         description: 'Men Square Sunglases',
         price: '42999',
@@ -1005,7 +1005,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 27,
+        id: 85,
         name: 'Fogg Marco Perfume',
         description: 'Body Spray For Men (Black), Long Lasting, No Gas, Everyday Deodorant and Spray, 150ml',
         price: '4299',
@@ -1016,7 +1016,7 @@ export const PRODUCTS = [
     },
     {
 
-        id: 28,
+        id: 86,
         name: 'Nivea',
         description: 'Deodorant Roll On, Pearl & Beauty For Women 50ml',
         price: '799',
@@ -1026,7 +1026,7 @@ export const PRODUCTS = [
         sale_type: 'Flash Sales',
     },
     {
-        id: 29,
+        id: 87,
         name: 'Jaguar',
         description: 'Classic Black Eau De Toilette, 100 ml',
         price: '73999',
@@ -1036,7 +1036,7 @@ export const PRODUCTS = [
         sale_type: 'Blockbuster',
     },
     {
-        id: 30,
+        id: 89,
         name: 'Hide & Skin',
         description: 'Unisex Leather RFID Blocking Card Holder Cum Minimalistic Wallet (Velvet Brown)',
         price: '27899',

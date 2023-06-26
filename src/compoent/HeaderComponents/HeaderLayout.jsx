@@ -13,8 +13,6 @@ function HeaderLayout () {
         <React.Fragment>
             <div className="header">
                 <Nav onSearch={onSearch}/>
-                
-                
             </div>
         </React.Fragment>
     )

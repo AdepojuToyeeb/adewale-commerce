@@ -9,8 +9,8 @@ class Logo extends Component {
             <div id="nav-left">
                 <h1 className="logo">
                     <a href="/home">                        
-                        POSH
-                        <span className='icon'><FontAwesomeIcon icon='star' /></span>
+                        Stores
+                        {/* <span className='icon'><FontAwesomeIcon icon='star' /></span> */}
                     </a>
                 </h1>
             </div>
